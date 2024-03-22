@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DOCKERHUB_REPO: sharpscontainer/dd-client-nc
-      IMAGE_TAG: 0.0.1 # TODO - automate
+      IMAGE_TAG: 0.0.2 # TODO - automate
     permissions:
       contents: write
 
