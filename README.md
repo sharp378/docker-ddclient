@@ -3,11 +3,11 @@
 A lightweight runner of ddclient for use with Namecheap
 
 ## Required Environment Variables
-## `DD_LOGIN`  
+### `DD_LOGIN`  
 The value to provide to the "login" parameter in ddclient.conf
 
-## `DD_PASSWORD`
+### `DD_PASSWORD`
 The value to provide to the "password" parameter in ddclient.conf
 
-## `DD_HOST`
+### `DD_HOST`
 The host to update (e.g a subdomain)
